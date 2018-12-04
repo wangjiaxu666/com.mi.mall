@@ -1,5 +1,5 @@
 <template>
-  <div>hello liulei</div>
+  <div>hello liulei测试</div>
 </template>
 
 <script>
