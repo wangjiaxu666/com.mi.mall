@@ -61,7 +61,7 @@
     width: 57px;
     height: 57px;
     margin-right: 10px;
-    background: url(../../static/logo-footer.png) no-repeat 50% 50%;
+    background: url(../../static/footer/logo-footer.png) no-repeat 50% 50%;
   }
   .ir {
     display: block;

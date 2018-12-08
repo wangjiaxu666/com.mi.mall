@@ -3,11 +3,11 @@
       <div class="container">
         <div class="footer-service">
           <ul class="list-service clearfix">
-            <li><a><img src="../../static/maintain1.png" width="23" height="23"/><span>预约维修服务</span></a></li>
-            <li><a><img src="../../static/7.png" width="23" height="23"/><span>7天无理由退货</span></a></li>
-            <li><a><img src="../../static/15.png" width="23" height="23"/><span>15天免费换货</span></a></li>
-            <li><a><img src="../../static/li-wu-xiang-red.png" width="23" height="23"/><span>满150元包邮</span></a></li>
-            <li><a><img src="../../static/landmark.png" width="23" height="23"/><span>520余家售后网点</span></a></li>
+            <li><a><img src="../../static/footer/maintain1.png" width="23" height="23"/><span>预约维修服务</span></a></li>
+            <li><a><img src="../../static/footer/7.png" width="23" height="23"/><span>7天无理由退货</span></a></li>
+            <li><a><img src="../../static/footer/15.png" width="23" height="23"/><span>15天免费换货</span></a></li>
+            <li><a><img src="../../static/footer/li-wu-xiang-red.png" width="23" height="23"/><span>满150元包邮</span></a></li>
+            <li><a><img src="../../static/footer/landmark.png" width="23" height="23"/><span>520余家售后网点</span></a></li>
           </ul>
         </div>
         <div class="footer-links clearfix">
